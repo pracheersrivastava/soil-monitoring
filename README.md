@@ -27,6 +27,14 @@ The aim is to **implement precision farming techniques** to improve irrigation e
  ├── README.md           # Project documentation  
  └── LICENSE             # Open-source license (if applicable)  
 ```
+## Circuit Diagrams  
+### Full Project Wiring  
+![Full Circuit Diagram](hardware/full_circuit_diagram.png)  
+![Full Schematic Diagram](hardware/full_circuit_schem.png)  
+
+### DHT22 Real Wiring Setup  
+![DHT22 Wiring](hardware/dht22_real_wiring.jpg)  
+
 ## Wiring & Circuit Diagram
 
 Wiring Color Code (Used in Diagram)
