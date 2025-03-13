@@ -31,20 +31,20 @@ The aim is to **implement precision farming techniques** to improve irrigation e
 
 Wiring Color Code (Used in Diagram)
 
-🟥 Red → Power (VCC input)
-⚫ Black → Ground (GND)
-🟩 Green → Soil Sensor AOUT (Analog Output)
-🟨 Yellow → DHT22 Data (Signal)
+🟥 Red → Power (VCC input)  
+⚫ Black → Ground (GND)  
+🟩 Green → Soil Sensor AOUT (Analog Output)  
+🟨 Yellow → DHT22 Data (Signal)  
 
 ## 🚀 Next Steps  
 ✅ Purchase components (**Completed**)  
-✅ DHT22 Wiring Completed
-⏳ Soil Moisture Sensor Wiring Pending
-⬜️ Upload & Test ESP32 + DHT22 Sensor Code
-⬜️ Connect & Wire the Soil Moisture Sensor
-⬜️ Test Soil Sensor Data Readings
-⬜️ Write basic sensor-reading code
-⬜️ Log data to a cloud database 
+✅ DHT22 Wiring Completed  
+⏳ Soil Moisture Sensor Wiring Pending  
+⬜️ Upload & Test ESP32 + DHT22 Sensor Code  
+⬜️ Connect & Wire the Soil Moisture Sensor  
+⬜️ Test Soil Sensor Data Readings  
+⬜️ Write basic sensor-reading code  
+⬜️ Log data to a cloud database  
 
 ## 💡 How to Contribute?  
 - Clone the repository  
